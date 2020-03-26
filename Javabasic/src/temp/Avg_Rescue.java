@@ -21,7 +21,7 @@ public class Avg_Rescue {
 //		for(int j = 0; score.hasMoreTokens();j++) {
 //			score1[] = Integer.parseInt(score.nextToken());
 		}
-			                    못했음
+//			                    못했음
 		}
 		
 		
